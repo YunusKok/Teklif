@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+.container {
+    margin-top: 50px;
+}
+button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+#no-btn.small {
+    font-size: 12px;
+    padding: 5px 10px;
+}
+#yes-btn.large {
+    font-size: 20px;
+    padding: 15px 30px;
+}
