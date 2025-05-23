@@ -21,3 +21,11 @@ button {
     font-size: 20px;
     padding: 15px 30px;
 }
+img {
+    width: 300px;
+    transition: transform 0.3s ease;
+}
+
+img:hover {
+    transform: scale(1.2); /* Fotoğrafı %20 büyütür */
+}
